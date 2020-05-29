@@ -15,6 +15,14 @@ namespace Aula06Heranca
             cpf.cpf = "000.000.000-00";
             System.Console.WriteLine( cpf.vailidarCPF() );
 
+            System.Console.WriteLine("---------------------------------------------------------");
+            CNPJ cnpj = new CNPJ();
+
+            cnpj.nome = "Gustavo";
+            System.Console.WriteLine( cnpj.Saudar() );
+
+            cnpj.cnpj = "00.000.000/0000-00";
+            System.Console.WriteLine( cnpj.ValidarCNPJ() );
         }
     }
 }
