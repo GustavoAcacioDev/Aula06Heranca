@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.exe
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.deps.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.runtimeconfig.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.runtimeconfig.dev.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.AssemblyInfo.cs
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.genruntimeconfig.cache
